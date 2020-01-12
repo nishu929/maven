@@ -5,7 +5,7 @@
 
   <groupId>com.mycompany.myapp</groupId>
   <artifactId>python.first</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
 
   <name>python.first</name>
   <!-- FIXME change it to the project's website -->
@@ -23,7 +23,7 @@
 <url>https://github.com/nishu929/maven</url>
 
 
-  <tag>tag on scm release tag</tag>
+  <tag>python.first-1.0.1</tag>
   </scm>
 
   <dependencies>
