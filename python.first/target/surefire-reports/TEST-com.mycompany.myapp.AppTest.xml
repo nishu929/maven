@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.myapp.AppTest" time="0.077" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.myapp.AppTest" time="0.074" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.specification.version" value="12"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="F:\self study\maven_self-study\python.first\target\test-classes;F:\self study\maven_self-study\python.first\target\classes;C:\Users\nishant patel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\nishant patel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="F:\self study\maven_self-study\maven\python.first\target\test-classes;F:\self study\maven_self-study\maven\python.first\target\classes;C:\Users\nishant patel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\nishant patel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,9 +17,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\NISHAN~1\AppData\Local\Temp\surefire1530065517707299019\surefirebooter13434250405273199312.jar C:\Users\nishant patel\AppData\Local\Temp\surefire1530065517707299019 2020-01-12T17-02-35_054-jvmRun1 surefire15847726839835619033tmp surefire_09101744425546979701tmp"/>
+    <property name="sun.java.command" value="C:\Users\NISHAN~1\AppData\Local\Temp\surefire11736200273313870314\surefirebooter8119084433228139693.jar C:\Users\nishant patel\AppData\Local\Temp\surefire11736200273313870314 2020-01-12T17-11-29_915-jvmRun1 surefire4670014762048003213tmp surefire_014847384412723989909tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="F:\self study\maven_self-study\python.first\target\test-classes;F:\self study\maven_self-study\python.first\target\classes;C:\Users\nishant patel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\nishant patel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="F:\self study\maven_self-study\maven\python.first\target\test-classes;F:\self study\maven_self-study\maven\python.first\target\classes;C:\Users\nishant patel\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\nishant patel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\nishant patel"/>
     <property name="user.language" value="en"/>
@@ -27,13 +27,13 @@
     <property name="java.version.date" value="2019-04-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-12.0.1"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="F:\self study\maven_self-study\python.first"/>
+    <property name="basedir" value="F:\self study\maven_self-study\maven\python.first"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\NISHAN~1\AppData\Local\Temp\surefire1530065517707299019\surefirebooter13434250405273199312.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\NISHAN~1\AppData\Local\Temp\surefire11736200273313870314\surefirebooter8119084433228139693.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="12.0.1+12"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\NISHAN~1\AppData\Local\Temp\"/>
     <property name="java.version" value="12.0.1"/>
-    <property name="user.dir" value="F:\self study\maven_self-study\python.first"/>
+    <property name="user.dir" value="F:\self study\maven_self-study\maven\python.first"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -56,7 +56,6 @@
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="12.0.1+12"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="maven.repo.local" value="C:\Users\nishant patel\.m2\repository"/>
     <property name="java.class.version" value="56.0"/>
   </properties>
   <testcase name="shouldAnswerWithTrue" classname="com.mycompany.myapp.AppTest" time="0.003"/>
